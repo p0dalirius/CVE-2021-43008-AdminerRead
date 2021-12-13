@@ -1,0 +1,5 @@
+argparse
+bs4
+requests
+rich
+

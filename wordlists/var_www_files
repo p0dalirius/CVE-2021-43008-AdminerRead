@@ -1,0 +1,9 @@
+/var/www/index.html
+/var/www/index.php
+/var/www/.htpasswd
+/var/www/.htaccess
+/var/www/site/index.html
+/var/www/site/index.php
+/var/www/site/.htpasswd
+/var/www/site/.htaccess
+/proc/self/cwd/adminer.php

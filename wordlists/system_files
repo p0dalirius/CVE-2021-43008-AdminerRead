@@ -1,0 +1,9 @@
+/etc/passwd
+/etc/passwd-
+/etc/shadow
+/etc/shadow-
+/etc/network/interfaces
+/etc/debian_version
+/etc/issue
+/etc/lsb-release
+/proc/self/environ

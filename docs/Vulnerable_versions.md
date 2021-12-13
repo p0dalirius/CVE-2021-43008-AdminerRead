@@ -1,0 +1,56 @@
+# Vulnerable versions
+
+| Adminer version                                                | Vulnerable ?                     | PoC  |
+|----------------------------------------------------------------|----------------------------------|------|
+| [v4.8.1](https://github.com/vrana/adminer/releases/tag/v4.8.1) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.8.1/poc.png) |
+| [v4.8.0](https://github.com/vrana/adminer/releases/tag/v4.8.0) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.8.0/poc.png) |
+| [v4.7.9](https://github.com/vrana/adminer/releases/tag/v4.7.9) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.9/poc.png) |
+| [v4.7.8](https://github.com/vrana/adminer/releases/tag/v4.7.8) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.8/poc.png) |
+| [v4.7.7](https://github.com/vrana/adminer/releases/tag/v4.7.7) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.7/poc.png) |
+| [v4.7.6](https://github.com/vrana/adminer/releases/tag/v4.7.6) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.6/poc.png) |
+| [v4.7.5](https://github.com/vrana/adminer/releases/tag/v4.7.5) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.5/poc.png) |
+| [v4.7.4](https://github.com/vrana/adminer/releases/tag/v4.7.4) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.4/poc.png) |
+| [v4.7.3](https://github.com/vrana/adminer/releases/tag/v4.7.3) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.3/poc.png) |
+| [v4.7.2](https://github.com/vrana/adminer/releases/tag/v4.7.2) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.2/poc.png) |
+| [v4.7.1](https://github.com/vrana/adminer/releases/tag/v4.7.1) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.1/poc.png) |
+| [v4.7.0](https://github.com/vrana/adminer/releases/tag/v4.7.0) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.7.0/poc.png) |
+| [v4.6.3](https://github.com/vrana/adminer/releases/tag/v4.6.3) | :negative_squared_cross_mark: No | [poc](./all_versions/adminer/4.6.3/poc.png) |
+| [v4.6.2](https://github.com/vrana/adminer/releases/tag/v4.6.2) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.6.2/poc.png) |
+| [v4.6.1](https://github.com/vrana/adminer/releases/tag/v4.6.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.6.1/poc.png) |
+| [v4.6.0](https://github.com/vrana/adminer/releases/tag/v4.6.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.6.0/poc.png) |
+| [v4.5.0](https://github.com/vrana/adminer/releases/tag/v4.5.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.5.0/poc.png) |
+| [v4.4.0](https://github.com/vrana/adminer/releases/tag/v4.4.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.4.0/poc.png) |
+| [v4.3.1](https://github.com/vrana/adminer/releases/tag/v4.3.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.3.1/poc.png) |
+| [v4.3.0](https://github.com/vrana/adminer/releases/tag/v4.3.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.3.0/poc.png) |
+| [v4.2.5](https://github.com/vrana/adminer/releases/tag/v4.2.5) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.2.5/poc.png) |
+| [v4.2.4](https://github.com/vrana/adminer/releases/tag/v4.2.4) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.2.4/poc.png) |
+| [v4.2.3](https://github.com/vrana/adminer/releases/tag/v4.2.3) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.2.3/poc.png) |
+| [v4.2.2](https://github.com/vrana/adminer/releases/tag/v4.2.2) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.2.2/poc.png) |
+| [v4.2.1](https://github.com/vrana/adminer/releases/tag/v4.2.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.2.1/poc.png) |
+| [v4.2.0](https://github.com/vrana/adminer/releases/tag/v4.2.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.2.0/poc.png) |
+| [v4.1.0](https://github.com/vrana/adminer/releases/tag/v4.1.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.1.0/poc.png) |
+| [v4.0.3](https://github.com/vrana/adminer/releases/tag/v4.0.3) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.0.3/poc.png) |
+| [v4.0.2](https://github.com/vrana/adminer/releases/tag/v4.0.2) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.0.2/poc.png) |
+| [v4.0.1](https://github.com/vrana/adminer/releases/tag/v4.0.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.0.1/poc.png) |
+| [v4.0.0](https://github.com/vrana/adminer/releases/tag/v4.0.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/4.0.0/poc.png) |
+| [v3.7.1](https://github.com/vrana/adminer/releases/tag/v3.7.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.7.1/poc.png) |
+| [v3.7.0](https://github.com/vrana/adminer/releases/tag/v3.7.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.7.0/poc.png) |
+| [v3.6.4](https://github.com/vrana/adminer/releases/tag/v3.6.4) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.6.4/poc.png) |
+| [v3.6.3](https://github.com/vrana/adminer/releases/tag/v3.6.3) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.6.3/poc.png) |
+| [v3.6.2](https://github.com/vrana/adminer/releases/tag/v3.6.2) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.6.2/poc.png) |
+| [v3.6.1](https://github.com/vrana/adminer/releases/tag/v3.6.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.6.1/poc.png) |
+| [v3.6.0](https://github.com/vrana/adminer/releases/tag/v3.6.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.6.0/poc.png) |
+| [v3.5.1](https://github.com/vrana/adminer/releases/tag/v3.5.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.5.1/poc.png) |
+| [v3.5.0](https://github.com/vrana/adminer/releases/tag/v3.5.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.5.0/poc.png) |
+| [v3.4.0](https://github.com/vrana/adminer/releases/tag/v3.4.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.4.0/poc.png) |
+| [v3.3.4](https://github.com/vrana/adminer/releases/tag/v3.3.4) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.3.4/poc.png) |
+| [v3.3.3](https://github.com/vrana/adminer/releases/tag/v3.3.3) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.3.3/poc.png) |
+| [v3.3.2](https://github.com/vrana/adminer/releases/tag/v3.3.2) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.3.2/poc.png) |
+| [v3.3.1](https://github.com/vrana/adminer/releases/tag/v3.3.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.3.1/poc.png) |
+| [v3.3.0](https://github.com/vrana/adminer/releases/tag/v3.3.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.3.0/poc.png) |
+| [v3.2.2](https://github.com/vrana/adminer/releases/tag/v3.2.2) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.2.2/poc.png) |
+| [v3.2.1](https://github.com/vrana/adminer/releases/tag/v3.2.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.2.1/poc.png) |
+| [v3.2.0](https://github.com/vrana/adminer/releases/tag/v3.2.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.2.0/poc.png) |
+| [v3.1.0](https://github.com/vrana/adminer/releases/tag/v3.1.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.1.0/poc.png) |
+| [v3.0.1](https://github.com/vrana/adminer/releases/tag/v3.0.1) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.0.1/poc.png) |
+| [v3.0.0](https://github.com/vrana/adminer/releases/tag/v3.0.0) | :heavy_check_mark: Yes | [poc](./all_versions/adminer/3.0.0/poc.png) |
